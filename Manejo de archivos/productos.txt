@@ -1,0 +1,7 @@
+Lapicera,120.5,30
+Cuaderno,350.0,50
+Mochila,4500.75,10
+borratinta,650.0,1
+goma,20.0,2
+hojas,500.0,50
+hoja,620.0,45
